@@ -34,4 +34,62 @@ Calculate Home Loan and export analysis as txt
 
 ## 💡 Tutorial
 
-1.Open main.py file to run the program file
+1. 📂Open home-loan-gui-final.py file to run the program file
+
+<img src="https://user-images.githubusercontent.com/88296638/127817689-8ae16dd3-ceaa-4c85-a491-3123e55abd90.png" width=500px>
+
+
+
+2. ▶️ Run the file and input correct data and click the calculate button
+> ❌ No alphabate & symbol are allowed
+
+<img src="https://user-images.githubusercontent.com/88296638/127818203-75b8fef1-7ff9-4238-a162-749c7e4af18a.png" width=500px>
+
+
+
+3.The system will print out the result in the scrolledtext below.
+
+<img src="https://user-images.githubusercontent.com/88296638/127818607-23c0d04b-3e03-4fd9-8066-012a252da766.png" width=500px>
+
+
+
+4. User can click the export as txt button to export the result.
+
+<img src="https://user-images.githubusercontent.com/88296638/127818974-66e91432-f3c5-4bb0-87c7-98ef7839c2a1.png" width=500px>
+
+
+
+5. The txt file will save at the same location with your file.
+
+<img src="https://user-images.githubusercontent.com/88296638/127819270-423072cc-6806-4c7d-99a6-83868306ad75.png" width=500px>
+
+
+
+6.🧾The txt file:
+
+<img src="https://user-images.githubusercontent.com/88296638/127819634-9575f373-4b7f-4a9f-8ca1-0bc035bc8377.png" width=500px>
+
+
+<hr>
+
+
+## 📎 Others
+
+1.🖱️ By clicking the **how to use this system** button, a user manual window will pop out.
+
+<img src="https://user-images.githubusercontent.com/88296638/127820362-00678c63-6bc2-4640-9cb1-292f2e25e631.png" width=500px>
+
+
+
+2.🖱️ By clicking the **introduction to home loan** button, a introduction window will pop out.
+
+<img src="https://user-images.githubusercontent.com/88296638/127820661-e81a8391-7e23-4f69-b421-b47726902a2c.png" width=500px>
+
+
+
+3. Before you exit the system, a confirmation window will pop out.
+
+<img src="https://user-images.githubusercontent.com/88296638/127820909-67f55a1f-d6bb-4ab8-b165-3758e9c1a133.png" width=300px>
+
+
+
