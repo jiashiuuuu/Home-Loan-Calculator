@@ -85,11 +85,13 @@ Calculate Home Loan and export analysis as txt
 
 <img src="https://user-images.githubusercontent.com/88296638/127820661-e81a8391-7e23-4f69-b421-b47726902a2c.png" width=500px>
 
+## 💌 Contact & support us
 
+- 🎁 If you want to contact me to report bug or suggest new feautres, you can reach me at jiashiu135@gmail.com
 
-3. Before you exit the system, a confirmation window will pop out.
+<img src="https://user-images.githubusercontent.com/88296638/127822003-5b2f147a-92a0-4b46-80be-5849d3f3b3ce.png" width=400px>
 
-<img src="https://user-images.githubusercontent.com/88296638/127820909-67f55a1f-d6bb-4ab8-b165-3758e9c1a133.png" width=300px>
+-（☆∀☆）Thanks for using **Home Loan Calculator**. Your **support** is our **big motivation**. Thank you!
 
 
 
