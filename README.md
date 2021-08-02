@@ -16,5 +16,10 @@ Calculate Home Loan and export analysis as txt
 
 2. Click window to install
 
-<img src="https://user-images.githubusercontent.com/88296638/127815451-17e33284-dce8-4e43-b7b3-4333e9c8d93d.png" width=700px>
+<img src="https://user-images.githubusercontent.com/88296638/127815451-17e33284-dce8-4e43-b7b3-4333e9c8d93d.png" width=400px>
 
+## 💻 Installation
+#### Through [github.com][2]
+
+1. 👆🏻 Click the 🟩green button at the **top right side** of [https://github.com/][2]
+2. 💾 Download the **zip file** and **extract** it
