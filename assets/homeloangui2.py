@@ -1,4 +1,4 @@
-# Nama        : Lim Jia Shiu
+#Nama        : Lim Jia Shiu
 # Tingkatan   : 3 RED
 # Tahun       : 2021
 
@@ -11,7 +11,12 @@ from tkinter import messagebox
 from tkinter import scrolledtext
 from datetime import datetime
 from tkinter import filedialog
+from PIL import Image
+from pathlib import Path
 import webbrowser
+
+def gopath(path: str) -> Path:   #determine correct path for every file
+    return  Path("./assets") / Path(path)
 
 # Procedure moreinfo()
 def moreinfo():
@@ -378,14 +383,5 @@ style.configure("gold.TLabel",foreground="floral white",background="deep sky blu
 button5 = Button(window, text = "Introduction to home loan", style="gold.TLabel",command= moreinfo )
 button5.config (state = NORMAL ,cursor="hand2")
 button5.place(x=10, y=670, width= 220, height= 35)
-
-style = Style()
-style.configure("btn.TLabel",background="white",anchor="center")
-
-photoh =tk.PhotoImage (file = "help.png")
-helpUI = Button(window, style="btn.TLabel",image=photoh)
-helpUI.place (x=605, y=15)
-helpUI.configure (state = NORMAL,cursor="hand2")
-helpUI.bind("<Button-1>", lambda e:webbrowser.open_new_tab('https://github.com/jiashiuuuu/Home-Loan-Calculator'))
 
 window.mainloop()
