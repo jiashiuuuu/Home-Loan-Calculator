@@ -59,13 +59,14 @@ A Python Tkinter system to calculate Home Loan and export analysis as txt
 
 
 
-5. The txt file will save at the same location with your file.
+5. You can choose the location to save your txt file.
 
-<img src="https://user-images.githubusercontent.com/88296638/127819270-423072cc-6806-4c7d-99a6-83868306ad75.png" width=500px>
+<img src="https://user-images.githubusercontent.com/88296638/128168369-597739e6-cd9a-4964-b828-214237a68087.png" width=500px>
 
 
 
 6.🧾The txt file:
+
 
 <img src="https://user-images.githubusercontent.com/88296638/127819634-9575f373-4b7f-4a9f-8ca1-0bc035bc8377.png" width=500px>
 
