@@ -8,15 +8,12 @@ A Python Tkinter system to calculate Home Loan and export analysis as txt
 <hr>
 
 ### 🙋‍♂️ What you need to do to run this system?
-### 🐍1. Install Python / Thonny
+### 🐍1. Install Python 
 
-1. Download Thonny installation package at [https://thonny.org/]
+1. Download Python installation package at [https://www.python.org/]
 
-<img src="https://user-images.githubusercontent.com/88296638/127815291-cdec72a2-2d36-4e64-9912-6cca6f70bce5.png" width=700px>
 
-2. Click window to install
-
-<img src="https://user-images.githubusercontent.com/88296638/127815451-17e33284-dce8-4e43-b7b3-4333e9c8d93d.png" width=400px>
+<img src="https://user-images.githubusercontent.com/88296638/128303270-44fd1e79-468e-4b6b-87ab-1d6bb556457e.png" width=700px>
 
 <hr>
 
