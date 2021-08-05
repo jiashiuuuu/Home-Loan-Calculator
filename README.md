@@ -15,6 +15,8 @@ A Python Tkinter system to calculate Home Loan and export analysis as txt
 
 <img src="https://user-images.githubusercontent.com/88296638/128303270-44fd1e79-468e-4b6b-87ab-1d6bb556457e.png" width=700px>
 
+2. You need to install the package by typing "pip install pillow" and "pip install pathlib" in cmd
+
 <hr>
 
 ## 💻 Installation
