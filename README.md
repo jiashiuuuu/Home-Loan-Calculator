@@ -2,7 +2,7 @@
 A Python Tkinter system to calculate Home Loan and export analysis as txt
 
 
-<img src="https://user-images.githubusercontent.com/88296638/127813937-e621eeb5-d238-4295-bd6c-1a8b664740b8.png" width=700px>
+<img src="https://user-images.githubusercontent.com/88296638/128587782-7b16470d-ebf1-49fd-b29c-8bc830f6c575.png" width=700px>
 
 
 <hr>
