@@ -11,13 +11,13 @@ A Python Tkinter system to calculate Home Loan and export analysis as txt
 ### 🐍1. Install Python 
 
 1. Download Python installation package at [https://www.python.org/]
+![Picture3]()
 
 
-<img src="https://user-images.githubusercontent.com/88296638/128303270-44fd1e79-468e-4b6b-87ab-1d6bb556457e.png" width=700px>
 
 2. You need to install the package by typing "pip install pillow" and "pip install pathlib" in cmd
 
-<a href="https://github.com/jiashiuuuu/How-to-install-pip-package-in-cmd" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128590077-aea580b5-a262-4d25-9156-54778d8e64c0.png" width=500px></a>
+<a href="https://github.com/jiashiuuuu/How-to-install-pip-package-in-cmd" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128590494-df5aca11-5b08-499d-87ae-b2a98075f535.png" width=500px></a>
 
 For further information, you can click the above button to know how to install pip in python.
 
