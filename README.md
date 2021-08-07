@@ -11,7 +11,7 @@ A Python Tkinter system to calculate Home Loan and export analysis as txt
 
 You may click the button below to install our exe file.
 
-<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator/blob/main/Home%20Loan%20Calculator%20Installer%20by%20Jiashiuuu.exe?raw=true" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128593263-00b040a6-23eb-4c92-b2f5-b9932b99aa26.png" width=250px></a>
+<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator/blob/main/Home%20Loan%20Calculator%20Installer%20by%20Jiashiuuu.exe?raw=true" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128593388-3f39c44c-1e7b-4c9c-a4d8-f53b2f6e7aa3.png" width=280px></a>
 
 <hr>
 
