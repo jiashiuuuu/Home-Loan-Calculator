@@ -97,5 +97,6 @@ For further information, you can click the above button to know how to install p
 
 -（☆∀☆）Thanks for using **Home Loan Calculator**. Your **support** is our **big motivation**. Thank you!
 
+![thank-you-minion](https://user-images.githubusercontent.com/88296638/128590237-9b28fc2c-cfdb-461a-b622-c1cfba4c1c4a.gif)
 
 
