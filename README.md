@@ -17,6 +17,10 @@ A Python Tkinter system to calculate Home Loan and export analysis as txt
 
 2. You need to install the package by typing "pip install pillow" and "pip install pathlib" in cmd
 
+<a href="https://github.com/jiashiuuuu/How-to-install-pip-package-in-cmd!" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128590077-aea580b5-a262-4d25-9156-54778d8e64c0.png" width=500px></a>
+
+For further information, you can click the above button to know how to install pip in python.
+
 <hr>
 
 ## 💻 Installation
