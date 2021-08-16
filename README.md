@@ -118,6 +118,16 @@ For further information, you can click the above button to know how to install p
 
 <img src="https://user-images.githubusercontent.com/88296638/127820661-e81a8391-7e23-4f69-b421-b47726902a2c.png" width=500px>
 
+
+## Font ✍️
+
+1. You may download some specific font in this system through https://www.dafont.com/
+
+> You need to install a font only, which is "Milkyroad"
+
+<img src="https://user-images.githubusercontent.com/88296638/129522115-95d9f280-80e0-4082-ba40-6df7abddc272.png" width=600px>
+
+
 ## 💌 Contact & support us
 
 - 🎁 If you want to contact me to report bug or suggest new feautres, you can reach me at jiashiu135@gmail.com
@@ -127,5 +137,8 @@ For further information, you can click the above button to know how to install p
 -（☆∀☆）Thanks for using **Home Loan Calculator**. Your **support** is our **big motivation**. Thank you!
 
 ![thank-you-minion](https://user-images.githubusercontent.com/88296638/128590237-9b28fc2c-cfdb-461a-b622-c1cfba4c1c4a.gif)
+
+
+<hr>
 
 
